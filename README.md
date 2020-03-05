@@ -1,5 +1,5 @@
 # rx-block-unbrowser
-一键导入 https://greenify.github.io/kr328/rx-block-unbrowser
+一键导入 https://greenify.github.io/huajijam/rx-block-unbrowser
 
 用于屏蔽 非浏览器应用 的 默认关联
 
@@ -15,7 +15,6 @@
   * WiFi 万能钥匙(含 play 版)
   * IDM+
   * FV 悬浮球
-  * ADM Pro
   * 西瓜视频
   * 网易云音乐极速版
   * 必收
